@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TMCS1107A1BQDRQ1
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2021-11-15 11:14:15
+Downloaded=2025-03-11 20:14:48
+3D=Y

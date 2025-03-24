@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'LM51231QRGRRQ1'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "LM51231QRGRRQ1" (!) = "", "QFN50P350X350X100-21N-D", "Quad Flat No-Lead", "595-LM51231QRGRRQ1", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM51231QRGRRQ1?qs=IPgv5n7u5QYUtrf8%252Bwemgg%3D%3D", "LM51231QRGRRQ1", "null?region=nac", "Switching Controllers 2.2-MHz wide-VIN, synchronous boost controller with output voltage tracking", "https://www.ti.com/lit/gpn/lm51231-q1", "1 mm"
+END_PART
+
+END.

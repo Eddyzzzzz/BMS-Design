@@ -1,0 +1,115 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "TPS7B8850QKVURQ1"
+   (description "LDO Voltage Regulators Automotive 500-mA, 40-V, low-dropout (LDO) linear regulator with fast transient response 3-TO-252 -40 to 125")
+   (family "ANA")
+   (package "TPS7B8850QKVURQ1")
+   (attribute "Datasheet Link" "https://www.ti.com/lit/ds/symlink/tps7b88-q1.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1618332547166&ref_url=https%253A%252F%252Fwww.ti.com%252Fgeneral%252Fdocs%252Fsuppproductinfo.tsp%253FdistId%253D26%2526gotoUrl%253Dhttps%253A%252F%252Fwww.ti")
+   (attribute "Geometry.Height" "2.52mm")
+   (attribute "Manufacturer_Name" "Texas Instruments")
+   (attribute "Manufacturer_Part_Number" "TPS7B8850QKVURQ1")
+   (attribute "Mouser Part Number" "595-TPS7B8850QKVURQ1")
+   (attribute "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS7B8850QKVURQ1?qs=pUKx8fyJudAyek72uL8wlQ%3D%3D")
+   (attribute "Arrow Part Number" "TPS7B8850QKVURQ1")
+   (attribute "Arrow Price/Stock" "https://www.arrow.com/en/products/tps7b8850qkvurq1/texas-instruments?region=nac")
+   (gate
+    (symbol "TPS7B8850QKVURQ1")
+    (pin "IN" 1 PS)
+    (pin "GND" 2 PS)
+    (pin "OUT" 3 PS)
+   )
+  )
+  (symbol "TPS7B8850QKVURQ1"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 800 100) (pt 800 -200) (pt 200 -200) (pt 200 100) (closed))
+   )
+   (terminal
+    (body (symbol "PIN") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 1000 0) (rot 0) (mir X) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PIN") (pt 0 -100) (rot 0) (mir 0) (visible true))
+    (name (pt 230 0) (rot 0) (just MIDDLE LEFT) (visible true))
+    (number (pt 140 20) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "TPS7B8850QKVURQ1"
+   (units MM)
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1.747 3.263)
+      (pt 4.348 3.263)
+      (pt 4.348 -3.263)
+      (pt -1.747 -3.263)
+      (pt -1.747 3.263))))
+   (layer OCCA
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.723 4.263)
+      (pt 6.428 4.263)
+      (pt 6.428 -4.263)
+      (pt -6.723 -4.263)
+      (pt -6.723 4.263))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 4.2 3.263)
+      (pt -1.747 3.263)
+      (pt -1.747 -3.263)
+      (pt 4.2 -3.263))))
+   (layer TSLK
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -6.2 2.4)
+      (arc (pt -6.200 2.400) (pt -6.250 2.300) (pt -6.150 2.400) (start 180.0) (sweep 90.0))
+      (pt -6.2 2.3)
+      (arc (pt -6.200 2.300) (pt -6.250 2.300) (pt -6.150 2.400) (start 180.0) (sweep -90.0))
+      (pt -6.2 2.4))))
+   (leg 1 (pt -4.348 2.290) (padstack 0))
+   (leg 2 (pt 2.353 0.000) (padstack 2))
+   (leg 3 (pt -4.348 -2.290) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 1.000 2.750 0 0 0.000))
+   )
+   (padstack 2
+    (plated false)
+    (pad (layer TCOP) (rectf 5.550 6.150 0 0 0.000))
+   )
+   (model "TPS7B8850QKVURQ1.stp"
+    (euler 0 0 0)
+    (offset 0.7799999713897705 0 0.11999999731779099)
+   )
+  )
+ )
+)

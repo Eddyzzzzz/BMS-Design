@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LM51231QRGRRQ1
+D Switching Controllers 2.2-MHz wide-VIN, synchronous boost controller with output voltage tracking
+K
+F https://www.ti.com/lit/gpn/lm51231-q1
+$ENDCMP
+#
+#End Doc Library

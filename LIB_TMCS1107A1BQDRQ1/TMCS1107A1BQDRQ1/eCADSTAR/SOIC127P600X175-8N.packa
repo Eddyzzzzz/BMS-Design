@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "TMCS1107A1BQDRQ1"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2021-02-13-13:11:52)
+    (mountForm default
+        (footprintRef "SOIC127P600X175-8N")
+        (spec "System")
+    )
+)

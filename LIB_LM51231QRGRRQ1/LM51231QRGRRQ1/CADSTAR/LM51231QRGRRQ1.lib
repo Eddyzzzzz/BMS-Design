@@ -1,0 +1,18 @@
+.LM51231QRGRRQ1 :1 ;Switching Controllers 2.2-MHz wide-VIN, synchronous boost controller with output voltage tracking
+QFN50P350X350X100-21N-D
+*STM IC
+*NGS
+*PLB 1="CSP" 2="CSN" 3="VOUT/SENSE" 4="PGOOD" 5="HO" 6="SW" 7="HB" 8="BIAS" 9="VCC" 10="PGND" 11="LO" 12="MODE" 13="UVLO/EN" 14="SYNC/DITHER/VH" 15="RT" 16="VREF/ RANGE" 17="SS" 18="TRK" 19="AGND" 20="COMP" 21="EP"
+*MXP 21
+*DFN LM51231QRGRRQ1
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (LM51231QRGRRQ1)
+~!Mouser Part Number (595-LM51231QRGRRQ1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM51231QRGRRQ1?qs=IPgv5n7u5QYUtrf8%252Bwemgg%3D%3D)
+~!Arrow Part Number (LM51231QRGRRQ1)
+~!Link Arrow Price/Stock (null?region=nac)
+~!Link Datasheet (https://www.ti.com/lit/gpn/lm51231-q1)
+~!Height (1mm)
+~!3D_Model (LM51231QRGRRQ1)
+LM51231QRGRRQ1
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 6.1!U 7.1!U 8.1!U 9.1!U 10.1!U 15.1!U 14.1!U 13.1!U 12.1!U 11.1!U 21.1!U 20.1!U 19.1!U 18.1!U 17.1!U 16.1!U 

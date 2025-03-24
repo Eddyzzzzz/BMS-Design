@@ -1,0 +1,18 @@
+.TMCS1107A1BQDRQ1 :1 ;Board Mount Current Sensors AEC-Q100, +/-420-V isolated Hall-effect current sensor with internal reference 8-SOIC -40 to 125
+SOIC127P600X175-8N
+*STM IC
+*NGS
+*PLB 1="IN+_1" 2="IN+_2" 3="IN-_1" 4="IN-_2" 5="GND" 6="NC" 7="VOUT" 8="VS"
+*MXP 8
+*DFN TMCS1107A1BQDRQ1
+~!Manufacturer_Name (Texas Instruments)
+~!Manufacturer_Part_Number (TMCS1107A1BQDRQ1)
+~!Mouser Part Number (595-TMCS1107A1BQDRQ1)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TMCS1107A1BQDRQ1?qs=A6eO%252BMLsxmRDGOpu2d0NVw%3D%3D)
+~!Arrow Part Number (TMCS1107A1BQDRQ1)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/tmcs1107a1bqdrq1/texas-instruments?utm_currency=USD&region=nac)
+~!Link Datasheet (https://www.ti.com/lit/ds/symlink/tmcs1107-q1.pdf?ts=1634009705469&ref_url=https%253A%252F%252Fwww.ti.com%252Fsitesearch%252Fdocs%252Funiversalsearch.tsp%253FlangPref%253Den-US%2526searchTerm%253DTMCS1107A4UQDRQ1%2526nr%253D2)
+~!Height (1.75mm)
+~!3D_Model (TMCS1107A1BQDRQ1)
+TMCS1107A1BQDRQ1
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

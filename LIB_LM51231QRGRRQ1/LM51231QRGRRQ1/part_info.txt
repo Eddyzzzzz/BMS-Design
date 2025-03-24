@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=LM51231QRGRRQ1
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat No-Lead
+PinCount=21
+Version=1.1
+Released=2023-05-13 11:21:03
+Downloaded=2025-03-11 20:18:46
+3D=Y

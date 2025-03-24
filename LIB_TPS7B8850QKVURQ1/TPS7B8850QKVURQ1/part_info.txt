@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=TPS7B8850QKVURQ1
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=3
+Version=1.2
+Released=2021-04-14 10:05:45
+Downloaded=2025-03-11 20:17:54
+3D=Y

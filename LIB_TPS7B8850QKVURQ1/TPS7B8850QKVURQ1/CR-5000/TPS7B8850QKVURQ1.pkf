@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "TPS7B8850QKVURQ1"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "TPS7B8850QKVURQ1")
+        (spec "default")
+    )
+)
